@@ -1,0 +1,4617 @@
+{
+    "tench": [
+        "species",
+        "freshwater game fish"
+    ],
+    "goldfish": [
+        "type",
+        "small fish"
+    ],
+    "great white shark": [
+        "large shark",
+        "coastal surface waters",
+        "major oceans",
+        "fish marine mammals"
+    ],
+    "tiger shark": [
+        "large shark",
+        "wide warm-water distribution",
+        "dark stripes"
+    ],
+    "hammerhead": [
+        "portion",
+        "hammer",
+        "metal striking face",
+        "claw",
+        "peen"
+    ],
+    "electric ray": [
+        "group",
+        "rays",
+        "order",
+        "Torpedodiniformes",
+        "electric discharge"
+    ],
+    "stingray": [
+        "large, venomous rays",
+        "orders",
+        "barbed, whiplike tail"
+    ],
+    "cock": [
+        "male bird"
+    ],
+    "hen": [
+        "female chicken",
+        "eggs"
+    ],
+    "ostrich": [
+        "large flightless bird"
+    ],
+    "brambling": [
+        "finch",
+        "male",
+        "black head",
+        "summer",
+        "orange breast",
+        "white belly",
+        "long white rump"
+    ],
+    "goldfinch": [
+        "small passerine birds",
+        "finch family"
+    ],
+    "house finch": [
+        "passerine bird"
+    ],
+    "junco": [
+        "bird",
+        "species",
+        "North American sparrow"
+    ],
+    "indigo bunting": [],
+    "robin": [
+        "passerine birds",
+        "100 species",
+        "families",
+        "red breast"
+    ],
+    "bulbul": [
+        "passerine songbirds",
+        "currently, 27 genera",
+        "parts",
+        "\u2018nightingale"
+    ],
+    "jay": [
+        "numerous species",
+        "birds",
+        "genera",
+        "family",
+        "crows",
+        "form",
+        "crest"
+    ],
+    "magpie": [
+        "kinds",
+        "bird",
+        "family"
+    ],
+    "chickadee": [
+        "small passerine bird",
+        "family Paridae"
+    ],
+    "water ouzel": [
+        "white-thoated dipper",
+        "European dipper"
+    ],
+    "kite": [],
+    "bald eagle": [
+        "species",
+        "eagle",
+        "white plumage",
+        "head"
+    ],
+    "vulture": [
+        "carrion-eating birds",
+        "families"
+    ],
+    "great grey owl": [],
+    "European fire salamander": [],
+    "common newt": [],
+    "eft": [
+        "syn"
+    ],
+    "spotted salamander": [],
+    "axolotl": [
+        "critically endangered salamander",
+        "elevated lakes"
+    ],
+    "bullfrog": [
+        "frogs",
+        "croak",
+        "bellow",
+        "cow",
+        "bull"
+    ],
+    "tree frog": [
+        "frog",
+        "small size",
+        "form",
+        "true frogs",
+        "bright coloration"
+    ],
+    "tailed frog": [],
+    "loggerhead": [
+        "stupid person",
+        "blockhead",
+        "dolt"
+    ],
+    "leatherback turtle": [
+        "large sea turtle",
+        "leathery"
+    ],
+    "mud turtle": [],
+    "terrapin": [
+        "small turtles",
+        "families",
+        "fresh brackish water"
+    ],
+    "box turtle": [
+        "turtle",
+        "domed shell",
+        "animal",
+        "shell",
+        "predators"
+    ],
+    "banded gecko": [],
+    "common iguana": [
+        "large tropical American lizard",
+        "pet"
+    ],
+    "American chameleon": [
+        "arboreal American lizards",
+        "American chameleon",
+        "brightly colored dewlap",
+        "color-changing ability"
+    ],
+    "whiptail": [],
+    "agama": [
+        "small, long-tailed lizards",
+        "genera"
+    ],
+    "frilled lizard": [
+        "large contractile membranous",
+        "neck",
+        "body",
+        "territorial courtship display"
+    ],
+    "alligator lizard": [
+        "species",
+        "lizards",
+        "genera"
+    ],
+    "Gila monster": [],
+    "green lizard": [],
+    "African chameleon": [],
+    "Komodo dragon": [],
+    "African crocodile": [],
+    "American alligator": [],
+    "triceratops": [
+        "Common",
+        "herbivorous ceratopsid"
+    ],
+    "thunder snake": [],
+    "ringneck snake": [],
+    "hognose snake": [
+        "colubrid snake",
+        "genera",
+        "upturned snout"
+    ],
+    "green snake": [
+        "small medium-sized non-venomous colubrid snakes"
+    ],
+    "king snake": [
+        "colubrid snakes"
+    ],
+    "garter snake": [
+        "nonvenomous snakes",
+        "longitudinal stripes"
+    ],
+    "water snake": [
+        "snake",
+        "lot",
+        "time",
+        ", fresh water"
+    ],
+    "vine snake": [],
+    "night snake": [],
+    "boa constrictor": [
+        "large tropical American snake",
+        "prey"
+    ],
+    "rock python": [
+        "pythons"
+    ],
+    "Indian cobra": [],
+    "green mamba": [],
+    "sea snake": [
+        "snakes",
+        "waters"
+    ],
+    "horned viper": [
+        "North African desert vipers"
+    ],
+    "diamondback": [
+        "(common",
+        "species",
+        "rattlesnake",
+        "diamond pattern"
+    ],
+    "sidewinder": [
+        "Crotalus cerastes",
+        "lowland deserts"
+    ],
+    "trilobite": [
+        "extinct arthropod",
+        "body",
+        "large lobes"
+    ],
+    "harvestman": [
+        "field-worker",
+        "harvest"
+    ],
+    "scorpion": [
+        "arachnids",
+        "spiders",
+        "large pincers",
+        "curved tail",
+        "venomous sting",
+        "end"
+    ],
+    "black and gold garden spider": [],
+    "barn spider": [],
+    "garden spider": [],
+    "black widow": [
+        "species",
+        "venomous potentially deadly spiders",
+        "particularly Latrodectus sp"
+    ],
+    "tarantula": [],
+    "wolf spider": [
+        "species",
+        "wandering spiders",
+        "prey",
+        "ground",
+        "webs"
+    ],
+    "tick": [
+        "tiny woodland",
+        "suborder"
+    ],
+    "centipede": [
+        "arthropod",
+        "segmented body",
+        "pair",
+        "legs",
+        "segment",
+        "20 300 legs",
+        "total"
+    ],
+    "black grouse": [
+        "large, black bird",
+        "lyre-shaped tail",
+        "syn",
+        "Tetrao tetrix"
+    ],
+    "ptarmigan": [
+        "species",
+        "small grouse",
+        "subarctic tundra areas"
+    ],
+    "ruffed grouse": [
+        "American game bird",
+        "male",
+        "sounds",
+        "wings"
+    ],
+    "prairie chicken": [
+        "grouse",
+        "prairies"
+    ],
+    "peacock": [
+        "male peafowl",
+        "brilliant iridescently ocellated tail"
+    ],
+    "quail": [],
+    "partridge": [
+        "bird",
+        "number",
+        "genera",
+        "family",
+        "genera"
+    ],
+    "African grey": [],
+    "macaw": [
+        "parrots",
+        "largest parrots",
+        "long sabre-shaped tails",
+        "curved powerful bills",
+        "usually brilliant plumage"
+    ],
+    "sulphur-crested cockatoo": [
+        "yellow erectile crest"
+    ],
+    "lorikeet": [
+        "small, brightly coloured parrots"
+    ],
+    "coucal": [
+        "bird",
+        "cuckoo family"
+    ],
+    "bee eater": [],
+    "hornbill": [
+        "birds",
+        "bills",
+        "cow's horn",
+        "species",
+        "casque",
+        "bill",
+        "imprison",
+        "tree"
+    ],
+    "hummingbird": [
+        "small American birds",
+        "family",
+        "ability"
+    ],
+    "jacamar": [
+        "insectivorous tropical birds",
+        "iridescent plumage",
+        "long, sharp bill"
+    ],
+    "toucan": [
+        "neotropical frugivorous birds",
+        "large colorful beak"
+    ],
+    "drake": [
+        "male duck"
+    ],
+    "red-breasted merganser": [
+        "species",
+        "diving duck"
+    ],
+    "goose": [
+        "grazing waterfowl",
+        "feathers",
+        "feet",
+        "flying",
+        "swimming",
+        "land",
+        "ducks"
+    ],
+    "black swan": [
+        "Australian swan",
+        "feathers"
+    ],
+    "tusker": [
+        "animal",
+        "bull elephant",
+        "boar",
+        "large tusks"
+    ],
+    "echidna": [
+        "species",
+        "small spined monotremes",
+        "extant species"
+    ],
+    "platypus": [
+        "bill",
+        "duck",
+        "mole-like body",
+        "tail",
+        "beaver",
+        "waterproof pelt",
+        "flat webbed feet",
+        "males",
+        "poisonous spurs",
+        "inside",
+        "legs"
+    ],
+    "wallaby": [
+        "species",
+        "marsupial",
+        "kangaroos"
+    ],
+    "koala": [
+        "tree-dwelling marsupial",
+        "small bear",
+        "broad head",
+        "large ears",
+        "sharp claws"
+    ],
+    "wombat": [
+        "herbivorous, burrowing marsupials",
+        "family"
+    ],
+    "jellyfish": [
+        "transparent aquatic animal",
+        "acalephs",
+        "larger species",
+        "jellylike appearance"
+    ],
+    "sea anemone": [
+        "polyps",
+        "order",
+        "marine estuarine habitats",
+        "food",
+        "tentacles"
+    ],
+    "brain coral": [
+        "species",
+        "coral",
+        "appearance",
+        "brain",
+        "families"
+    ],
+    "flatworm": [
+        "parasitic free-living worms",
+        "flattened body",
+        "skeleton",
+        "body cavity"
+    ],
+    "nematode": [
+        "worm",
+        "roundworm",
+        "threadworm"
+    ],
+    "conch": [
+        "marine gastropod",
+        "spiral shell"
+    ],
+    "snail": [
+        "animals",
+        "coiled shell"
+    ],
+    "slug": [
+        "terrestrial pulmonate gastropod mollusks",
+        "rudimentary) shell"
+    ],
+    "sea slug": [
+        "order"
+    ],
+    "chiton": [
+        "loose woolen tunic",
+        "men",
+        "women"
+    ],
+    "chambered nautilus": [
+        "marine mollusc",
+        "family",
+        "tentacles",
+        "spiral shell",
+        "series",
+        "air-filled chambers"
+    ],
+    "Dungeness crab": [],
+    "rock crab": [],
+    "fiddler crab": [
+        "crab",
+        "male",
+        "hugely enlarged claw"
+    ],
+    "king crab": [
+        "highly prized crab-like crustacean",
+        "species"
+    ],
+    "American lobster": [],
+    "spiny lobster": [
+        "crustacean",
+        "true lobster"
+    ],
+    "crayfish": [
+        "numerous freshwater decapod crustaceans",
+        "superfamilies",
+        "related lobster"
+    ],
+    "hermit crab": [
+        "decapod crustacean",
+        "true crab",
+        "seashells",
+        "portable objects",
+        "soft abdomen"
+    ],
+    "isopod": [
+        "crustaceans",
+        "order",
+        "flattened body",
+        "carapace"
+    ],
+    "white stork": [
+        "large wading bird",
+        "mythology",
+        "babies"
+    ],
+    "black stork": [],
+    "spoonbill": [
+        "large, long-legged wading birds",
+        "family",
+        "ibises",
+        "large, flat, spatulate bill"
+    ],
+    "flamingo": [
+        "wading bird",
+        "family"
+    ],
+    "little blue heron": [],
+    "American egret": [],
+    "bittern": [
+        "bird species",
+        "heron family"
+    ],
+    "crane": [
+        "bird",
+        "large birds",
+        "long legs",
+        "long neck",
+        "flight"
+    ],
+    "limpkin": [
+        "large bird",
+        "marshes"
+    ],
+    "European gallinule": [],
+    "American coot": [],
+    "bustard": [
+        "large terrestrial birds",
+        "family",
+        "steppes"
+    ],
+    "ruddy turnstone": [],
+    "red-backed sandpiper": [
+        "small wading bird",
+        "coast",
+        "distinctive black belly",
+        "breeding plumage",
+        "type",
+        "stint"
+    ],
+    "redshank": [
+        "species",
+        "wading bird",
+        "long red legs"
+    ],
+    "dowitcher": [
+        "long-legged long-billed migratory wading birds",
+        "genus"
+    ],
+    "oystercatcher": [
+        "black pied coastal wading birds",
+        "long red orange bill",
+        "shellfish"
+    ],
+    "pelican": [
+        "seabirds",
+        "family",
+        "long bill",
+        "distendable pouch"
+    ],
+    "king penguin": [
+        "large penguin",
+        "coast",
+        "nearby islands"
+    ],
+    "albatross": [
+        "large seabirds",
+        "hooked beak",
+        "long narrow wings"
+    ],
+    "grey whale": [
+        "baleen whale"
+    ],
+    "killer whale": [
+        "sea mammal",
+        "dolphins",
+        "porpoises"
+    ],
+    "dugong": [
+        "plant-eating aquatic marine mammal",
+        "tropical regions"
+    ],
+    "sea lion": [
+        "marine mammal",
+        "genera",
+        "eared seals"
+    ],
+    "Chihuahua": [
+        "smallest breed",
+        "dog",
+        "world",
+        "large erect ears"
+    ],
+    "Japanese spaniel": [],
+    "Maltese dog": [],
+    "Pekinese": [
+        "Pekingese dog"
+    ],
+    "Shih-Tzu": [],
+    "Blenheim spaniel": [],
+    "papillon": [
+        "small dog",
+        "large ears",
+        "breed"
+    ],
+    "toy terrier": [],
+    "Rhodesian ridgeback": [],
+    "Afghan hound": [
+        "blanket"
+    ],
+    "basset": [
+        "edge",
+        "geological stratum",
+        "surface",
+        "ground"
+    ],
+    "beagle": [
+        "small short-legged smooth-coated scenthound",
+        "hares",
+        "friendly disposition",
+        "family pet"
+    ],
+    "bloodhound": [
+        "large scenthound",
+        "ability",
+        "scent",
+        "vast distances",
+        "dog",
+        "police dog",
+        "missing people",
+        "suspects",
+        "prisoners"
+    ],
+    "bluetick": [],
+    "black-and-tan coonhound": [],
+    "Walker hound": [],
+    "English foxhound": [],
+    "redbone": [],
+    "borzoi": [
+        "dog",
+        "particular breed",
+        "shape",
+        "greyhound",
+        "longer silkier hair"
+    ],
+    "Irish wolfhound": [],
+    "Italian greyhound": [],
+    "whippet": [
+        "dog",
+        "certain breed",
+        "small greyhound",
+        "racing"
+    ],
+    "Ibizan hound": [],
+    "Norwegian elkhound": [
+        "breed",
+        "dog",
+        "elk"
+    ],
+    "otterhound": [
+        "dog",
+        "particular breed",
+        "scent hound"
+    ],
+    "Saluki": [],
+    "Scottish deerhound": [
+        "dog",
+        "large greyhound",
+        "deer"
+    ],
+    "Weimaraner": [],
+    "Staffordshire bullterrier": [],
+    "American Staffordshire terrier": [
+        "medium-size dog"
+    ],
+    "Bedlington terrier": [],
+    "Border terrier": [],
+    "Kerry blue terrier": [],
+    "Irish terrier": [],
+    "Norfolk terrier": [],
+    "Norwich terrier": [],
+    "Yorkshire terrier": [],
+    "wire-haired fox terrier": [],
+    "Lakeland terrier": [],
+    "Sealyham terrier": [],
+    "Airedale": [],
+    "cairn": [
+        "rounded conical heap",
+        "stones",
+        "early inhabitants",
+        "sepulchral monument"
+    ],
+    "Australian terrier": [],
+    "Dandie Dinmont": [],
+    "Boston bull": [],
+    "miniature schnauzer": [],
+    "giant schnauzer": [],
+    "standard schnauzer": [],
+    "Scotch terrier": [],
+    "Tibetan terrier": [],
+    "silky terrier": [],
+    "soft-coated wheaten terrier": [],
+    "West Highland white terrier": [],
+    "Lhasa": [],
+    "flat-coated retriever": [],
+    "curly-coated retriever": [],
+    "golden retriever": [],
+    "Labrador retriever": [],
+    "Chesapeake Bay retriever": [],
+    "German short-haired pointer": [],
+    "vizsla": [
+        "dog"
+    ],
+    "English setter": [],
+    "Irish setter": [],
+    "Gordon setter": [],
+    "Brittany spaniel": [],
+    "clumber": [],
+    "English springer": [],
+    "Welsh springer spaniel": [],
+    "cocker spaniel": [
+        "breeds",
+        "dog"
+    ],
+    "Sussex spaniel": [],
+    "Irish water spaniel": [],
+    "kuvasz": [],
+    "schipperke": [
+        "small breed",
+        "dog",
+        "watchdog",
+        "boats"
+    ],
+    "groenendael": [],
+    "malinois": [],
+    "briard": [],
+    "kelpie": [
+        "malevolent shapeshifting spirit",
+        "form",
+        "horse",
+        "rivers",
+        "lochs"
+    ],
+    "komondor": [],
+    "Old English sheepdog": [
+        "tail"
+    ],
+    "Shetland sheepdog": [],
+    "collie": [
+        "breeds",
+        "dog",
+        "sheepdogs"
+    ],
+    "Border collie": [
+        "herding dog",
+        "border",
+        "intelligence",
+        "obedience"
+    ],
+    "Bouvier des Flandres": [],
+    "Rottweiler": [
+        "large muscular breed",
+        "dog",
+        "German origin",
+        "black fur tanned markings"
+    ],
+    "German shepherd": [],
+    "Doberman": [],
+    "miniature pinscher": [],
+    "Greater Swiss Mountain dog": [],
+    "Bernese mountain dog": [],
+    "Appenzeller": [],
+    "EntleBucher": [],
+    "boxer": [
+        "participant (fighter",
+        "boxing match"
+    ],
+    "bull mastiff": [],
+    "Tibetan mastiff": [],
+    "French bulldog": [],
+    "Great Dane": [],
+    "Saint Bernard": [],
+    "Eskimo dog": [],
+    "malamute": [
+        "ancient northern breed",
+        "dog",
+        "husky type",
+        "sled dog"
+    ],
+    "Siberian husky": [],
+    "dalmatian": [
+        "breed",
+        "dog",
+        "short, white coat",
+        "dark spots"
+    ],
+    "affenpinscher": [
+        "toy dog",
+        "type"
+    ],
+    "basenji": [],
+    "pug": [
+        "small dog",
+        "snub nose",
+        "face",
+        "squarish body",
+        "short smooth hair",
+        "tail"
+    ],
+    "Leonberg": [],
+    "Newfoundland": [],
+    "Great Pyrenees": [],
+    "Samoyed": [
+        "member",
+        "Samoyedic peoples",
+        "Samoyedic languages"
+    ],
+    "Pomeranian": [],
+    "chow": [
+        "Food",
+        "especially snacks"
+    ],
+    "keeshond": [],
+    "Brabancon griffon": [],
+    "Pembroke": [],
+    "Cardigan": [
+        "type",
+        "sweater",
+        "jumper",
+        "buttons",
+        "zipper",
+        "wool"
+    ],
+    "toy poodle": [
+        "small poodle",
+        "10 inches",
+        "28 cm"
+    ],
+    "miniature poodle": [
+        "small poodle",
+        "11-15 inches",
+        "28-38 cm"
+    ],
+    "standard poodle": [
+        "relatively large poodle",
+        "15 inches",
+        "38 cm"
+    ],
+    "Mexican hairless": [],
+    "timber wolf": [
+        "gray wolf"
+    ],
+    "white wolf": [],
+    "red wolf": [
+        "fertile hybrid pseudo",
+        "species",
+        "crossbreeding",
+        "gray wolves",
+        "coyotes",
+        "contributions",
+        "roughly 25% 75%"
+    ],
+    "coyote": [
+        "Canis latrans",
+        "species"
+    ],
+    "dingo": [
+        "wild dog"
+    ],
+    "dhole": [
+        "Asian wild dog"
+    ],
+    "African hunting dog": [],
+    "hyena": [
+        "large feliform carnivores",
+        "sound",
+        "laughter"
+    ],
+    "red fox": [
+        "reddish fur"
+    ],
+    "kit fox": [
+        "Vulpes macrotis",
+        "species",
+        "fox"
+    ],
+    "Arctic fox": [
+        "fox-like carnivore",
+        "family",
+        "Arctic regions"
+    ],
+    "grey fox": [],
+    "tabby": [
+        "kind",
+        "waved silk",
+        "watered silk",
+        "taffeta",
+        "watering"
+    ],
+    "tiger cat": [
+        "oncilla"
+    ],
+    "Persian cat": [],
+    "Siamese cat": [],
+    "Egyptian cat": [],
+    "cougar": [
+        "mountain lion",
+        "Puma concolor"
+    ],
+    "lynx": [
+        "medium-sized wild cats"
+    ],
+    "leopard": [
+        "large wild cat",
+        "spotted coat",
+        "especially male",
+        "species",
+        "contrast",
+        "leopardess"
+    ],
+    "snow leopard": [
+        "large feline mammal",
+        "(syn",
+        "mountain ranges"
+    ],
+    "jaguar": [
+        "carnivorous spotted large cat"
+    ],
+    "lion": [
+        "big cat"
+    ],
+    "tiger": [
+        "large predatory mammal",
+        "cat family"
+    ],
+    "cheetah": [
+        "distinctive member",
+        "cat family",
+        "leopard",
+        "proportionately longer limbs",
+        "smaller head",
+        "fastest terrestrial animal"
+    ],
+    "brown bear": [
+        "species",
+        "bears",
+        "brownish fur"
+    ],
+    "American black bear": [],
+    "ice bear": [
+        "large bear",
+        "appearance"
+    ],
+    "sloth bear": [
+        "nocturnal bear"
+    ],
+    "mongoose": [
+        "species",
+        "species",
+        "size",
+        "rats",
+        "large cats",
+        "Indian mongoose",
+        "predator",
+        "venomous snakes",
+        "mongoose species",
+        "similar habits"
+    ],
+    "meerkat": [
+        "small carnivorous mammal",
+        "mongoose family",
+        "habit",
+        "hind legs"
+    ],
+    "tiger beetle": [
+        "active, carnivorous beetle",
+        "species"
+    ],
+    "ladybug": [
+        "beetles",
+        "round shape"
+    ],
+    "ground beetle": [
+        "large cosmopolitan family",
+        "beetles"
+    ],
+    "long-horned beetle": [
+        "(longhorn beetles"
+    ],
+    "leaf beetle": [
+        "brightly-coloured beetles",
+        "plant leaves"
+    ],
+    "dung beetle": [
+        "beetle",
+        "subfamilies",
+        "rolling dung",
+        "balls",
+        "use",
+        "food",
+        "chambers"
+    ],
+    "rhinoceros beetle": [
+        "tropical beetles",
+        "horns",
+        "head",
+        "thorax",
+        "pest",
+        "coconuts"
+    ],
+    "weevil": [
+        "small herbivorous beetles",
+        "distinctive snout"
+    ],
+    "fly": [
+        "insect",
+        "order",
+        "wings",
+        "wingless species",
+        "true flies"
+    ],
+    "bee": [
+        "flying insect",
+        "organised societies",
+        "minority",
+        "pollen",
+        "species",
+        "wax",
+        "honey"
+    ],
+    "ant": [
+        "insects",
+        "order",
+        "large colonies",
+        "flightless females"
+    ],
+    "grasshopper": [
+        "order",
+        "ability",
+        "long distances",
+        "habit",
+        "species communicating",
+        "stridulation",
+        "crickets"
+    ],
+    "cricket": [
+        "insect",
+        "order",
+        "chirping sound",
+        "wing casings",
+        "combs",
+        "hind legs"
+    ],
+    "walking stick": [
+        "tool",
+        "cane",
+        "pressure",
+        "legs",
+        "stability"
+    ],
+    "cockroach": [
+        "black brown straight-winged insect",
+        "order"
+    ],
+    "mantis": [
+        "large insects",
+        "order",
+        "insects",
+        "small animals",
+        "powerful forelegs"
+    ],
+    "cicada": [
+        "insects",
+        "small eyes",
+        "head",
+        "transparent well-veined wings"
+    ],
+    "leafhopper": [
+        "insect",
+        "family"
+    ],
+    "lacewing": [
+        "number",
+        "gauzy-winged insects",
+        "certain families",
+        "order"
+    ],
+    "dragonfly": [
+        "insect",
+        "suborder",
+        "long transparent wings",
+        "long body"
+    ],
+    "damselfly": [
+        "insects",
+        "long slender bodies",
+        "dragonflies",
+        "wings",
+        "rest"
+    ],
+    "admiral": [
+        "naval officer",
+        "highest rank",
+        "commander",
+        "country's naval forces"
+    ],
+    "ringlet": [
+        "small ring"
+    ],
+    "monarch": [
+        "ruler",
+        "absolute monarchy",
+        "head",
+        "state",
+        "constitutional monarchy"
+    ],
+    "cabbage butterfly": [],
+    "sulphur butterfly": [],
+    "lycaenid": [
+        "member",
+        "gossamer-winged butterflies"
+    ],
+    "starfish": [
+        "asteroids",
+        "echinoderms",
+        "fact",
+        "usually arms",
+        "bivalves",
+        "corals",
+        "stomach"
+    ],
+    "sea urchin": [
+        "marine echinoderms",
+        "shallow water",
+        "complex chewing structure"
+    ],
+    "sea cucumber": [
+        "echinoderm",
+        "elongated body",
+        "leathery skin"
+    ],
+    "wood rabbit": [
+        "rabbit",
+        "species"
+    ],
+    "hare": [
+        "plant-eating animals",
+        "rabbit",
+        "longer ears"
+    ],
+    "Angora": [
+        "angora cat"
+    ],
+    "hamster": [],
+    "porcupine": [
+        "rodents",
+        "taxonomic families",
+        "sharp spines",
+        "quills",
+        "animal"
+    ],
+    "fox squirrel": [],
+    "marmot": [
+        "large ground-dwelling rodents",
+        "genera",
+        "squirrel family"
+    ],
+    "beaver": [
+        "semiaquatic rodent",
+        "wide, flat tail",
+        "webbed feet"
+    ],
+    "guinea pig": [
+        "tailless rodent",
+        "family",
+        "short ears",
+        "hamster",
+        "species",
+        "pet"
+    ],
+    "sorrel": [
+        "plants",
+        "acidic leaves"
+    ],
+    "zebra": [
+        "species",
+        "black white stripes"
+    ],
+    "hog": [
+        "animal",
+        "mammals",
+        "especially pig",
+        "warthog",
+        "boar"
+    ],
+    "wild boar": [],
+    "warthog": [
+        "wild pig"
+    ],
+    "hippopotamus": [
+        "large, semi-aquatic, herbivorous (plant-eating) African mammal"
+    ],
+    "ox": [
+        "adult",
+        "cattle"
+    ],
+    "water buffalo": [
+        "domestic animal"
+    ],
+    "bison": [
+        "wild ox"
+    ],
+    "ram": [
+        "male sheep"
+    ],
+    "bighorn": [
+        "North American species",
+        "sheep",
+        "large, curving horns"
+    ],
+    "ibex": [
+        "type",
+        "wild mountain goat"
+    ],
+    "hartebeest": [
+        "type",
+        "grassland antelope",
+        "parts"
+    ],
+    "impala": [
+        "African antelope",
+        "leaping ability",
+        "male",
+        ", curved horns"
+    ],
+    "gazelle": [
+        "antelope",
+        "high speeds",
+        "long periods"
+    ],
+    "Arabian camel": [
+        "single-humped camel",
+        "Camelus dromedarius"
+    ],
+    "llama": [
+        "South American mammal",
+        "camel family",
+        "domestic beast",
+        "burden",
+        "source",
+        "wool",
+        "meat"
+    ],
+    "weasel": [
+        "weasel"
+    ],
+    "mink": [
+        "(plural mink",
+        "minks",
+        "aquatic, carnivorous mammals",
+        "weasels",
+        "dark fur",
+        "species",
+        "different genera"
+    ],
+    "polecat": [
+        "weasel-like animal"
+    ],
+    "black-footed ferret": [
+        "domesticated mammal",
+        "weasel",
+        "polecat",
+        "burrowing animals"
+    ],
+    "otter": [
+        "aquatic marine carnivorous mammal",
+        "weasels",
+        "polecats",
+        "badgers"
+    ],
+    "skunk": [
+        "small mammals",
+        "family",
+        "glossy black",
+        "white coat",
+        "musk glands",
+        "base",
+        "tail",
+        "noxious smell",
+        "defensive measure"
+    ],
+    "badger": [
+        "mammal",
+        "subfamilies",
+        "(Eurasian badgers",
+        "ratel",
+        "honey badger",
+        "American badger"
+    ],
+    "armadillo": [
+        "burrowing mammals",
+        "bony",
+        "jointed, protective plates"
+    ],
+    "three-toed sloth": [
+        "kind",
+        "sloths",
+        "toes",
+        "limb"
+    ],
+    "orangutan": [
+        "species",
+        "abelii",
+        "shaggy reddish-brown coat",
+        "long arms",
+        "tail"
+    ],
+    "gorilla": [
+        "apes",
+        "forests",
+        "trait",
+        "knuckle-walking"
+    ],
+    "chimpanzee": [
+        "species",
+        "great ape",
+        "biologists",
+        "humans"
+    ],
+    "gibbon": [
+        "small ape",
+        "family",
+        "long limbs",
+        "rainforests",
+        "branch"
+    ],
+    "siamang": [
+        "large black gibbon"
+    ],
+    "guenon": [],
+    "patas": [],
+    "baboon": [
+        "dog-like muzzles",
+        "large canine teeth",
+        "cheek pouches",
+        "short tail",
+        "naked callosities",
+        "buttocks"
+    ],
+    "macaque": [
+        "group"
+    ],
+    "langur": [
+        "genera",
+        "lutungs",
+        "gray langurs"
+    ],
+    "colobus": [
+        "large arboreal African monkeys"
+    ],
+    "proboscis monkey": [
+        "unusually large nose"
+    ],
+    "marmoset": [
+        "small monkey",
+        "specifically Central South American monkey",
+        "genera",
+        "claws",
+        "nails",
+        "primitive layout"
+    ],
+    "capuchin": [
+        "monk"
+    ],
+    "howler monkey": [
+        "loud Central American South American monkey"
+    ],
+    "titi": [
+        "long soft fur"
+    ],
+    "spider monkey": [
+        "long, spindly limbs"
+    ],
+    "squirrel monkey": [],
+    "Madagascar cat": [
+        "species",
+        "long black-and-white ringed tail"
+    ],
+    "indri": [
+        "largest living lemurs"
+    ],
+    "Indian elephant": [],
+    "African elephant": [],
+    "lesser panda": [
+        "red panda"
+    ],
+    "giant panda": [
+        "panda"
+    ],
+    "barracouta": [],
+    "eel": [
+        "freshwater",
+        "marine fish",
+        "order",
+        "snakes"
+    ],
+    "coho": [
+        "anadromus",
+        "semelparous salmon",
+        "coastal regions",
+        "symbol",
+        "Native American tribes"
+    ],
+    "rock beauty": [],
+    "anemone fish": [],
+    "sturgeon": [
+        "marine freshwater fish",
+        "family",
+        "roe",
+        "seas",
+        "rivers"
+    ],
+    "gar": [
+        "spear"
+    ],
+    "lionfish": [],
+    "puffer": [],
+    "abacus": [
+        "table",
+        "tray",
+        "sand",
+        "drawing"
+    ],
+    "abaya": [
+        "felted fabric"
+    ],
+    "academic gown": [],
+    "accordion": [
+        "small, portable, keyed wind instrument",
+        "tones",
+        "play",
+        "wind",
+        "squeezed bellows",
+        "free metallic reeds"
+    ],
+    "acoustic guitar": [
+        "(retronym",
+        "hollow-body guitar",
+        "older variety",
+        "contradistinction",
+        "electric guitar"
+    ],
+    "aircraft carrier": [
+        "warship",
+        "aircraft",
+        "seagoing air base",
+        "deck",
+        "aircraft"
+    ],
+    "airliner": [
+        "passenger-carrying aircraft",
+        "fleet",
+        "airline"
+    ],
+    "airship": [
+        "air",
+        "air"
+    ],
+    "altar": [
+        "table",
+        "similar flat-topped structure",
+        "religious rites"
+    ],
+    "ambulance": [
+        "emergency vehicle",
+        "seriously ill injured people",
+        "hospital"
+    ],
+    "amphibian": [
+        "animal",
+        "four-legged vertebrate",
+        "amniotic eggs",
+        "land",
+        "water"
+    ],
+    "analog clock": [],
+    "apiary": [
+        "place",
+        "bees",
+        "hives"
+    ],
+    "apron": [
+        "article",
+        "clothing",
+        "torso",
+        "legs",
+        "protection",
+        "spills",
+        "women's fashion"
+    ],
+    "ashcan": [
+        "container",
+        "ashes",
+        "times",
+        "ashes",
+        "wood coal fires",
+        "eventual disposal",
+        "dustbin"
+    ],
+    "assault rifle": [
+        "military select-fire rifle",
+        "high-capacity magazine"
+    ],
+    "backpack": [
+        "knapsack",
+        "light frame",
+        "straps",
+        "person",
+        "purpose",
+        "things",
+        "especially hiking",
+        "books"
+    ],
+    "bakery": [
+        "shop",
+        "bread",
+        "baked goods",
+        "cakes"
+    ],
+    "balance beam": [
+        "large piece",
+        "timber",
+        "iron",
+        "proportion",
+        "thickness",
+        "use"
+    ],
+    "balloon": [
+        "inflatable buoyant object"
+    ],
+    "ballpoint": [
+        "ballpoint pen"
+    ],
+    "Band Aid": [],
+    "banjo": [
+        "stringed musical instrument",
+        "chordophone",
+        "round body",
+        "membrane-like soundboard",
+        "fretted neck",
+        "strings"
+    ],
+    "bannister": [
+        "handrail",
+        "staircase"
+    ],
+    "barbell": [
+        "wide steel bar",
+        "premeasured weights",
+        "end",
+        "central span",
+        "hands",
+        "weightlifter"
+    ],
+    "barber chair": [],
+    "barbershop": [
+        "place",
+        "business",
+        "barber",
+        "store",
+        "person",
+        "usually man",
+        "haircut"
+    ],
+    "barn": [
+        "building",
+        "farm",
+        "storage",
+        "animals",
+        "cattle"
+    ],
+    "barometer": [
+        "instrument",
+        "atmospheric pressure"
+    ],
+    "barrel": [
+        "round vessel",
+        "cask",
+        "greater length",
+        "breadth",
+        "middle",
+        "staves",
+        "hoops",
+        "flat ends",
+        "heads",
+        "similar cylindrical container",
+        "metal",
+        "drum"
+    ],
+    "barrow": [
+        "mountain"
+    ],
+    "baseball": [
+        "sport",
+        "object",
+        "ball",
+        "nine-person team",
+        "counter",
+        "-",
+        "clockwise",
+        "bases",
+        "scoring",
+        "run",
+        "team",
+        "runs",
+        "termination",
+        "play",
+        "usually innings"
+    ],
+    "basketball": [
+        "sport",
+        "opposing teams",
+        "players",
+        "ball",
+        "hoop"
+    ],
+    "bassinet": [
+        "newborn baby's bed",
+        "woven reeds",
+        "straw"
+    ],
+    "bassoon": [
+        "musical instrument",
+        "woodwind family",
+        "double reed",
+        "tenor bass ranges"
+    ],
+    "bathing cap": [],
+    "bath towel": [
+        "towel",
+        "body"
+    ],
+    "bathtub": [
+        "large container",
+        "water",
+        "person",
+        "bath"
+    ],
+    "beach wagon": [
+        "vehicle",
+        "transport",
+        "railway station"
+    ],
+    "beacon": [
+        "signal fire",
+        "approach",
+        "enemy",
+        "notice",
+        "warning"
+    ],
+    "beaker": [
+        "flat-bottomed vessel",
+        "lip",
+        "laboratory container"
+    ],
+    "bearskin": [
+        "pelt",
+        "bear",
+        "rug"
+    ],
+    "beer bottle": [],
+    "beer glass": [],
+    "bell cote": [],
+    "bib": [
+        "item",
+        "clothing",
+        "people",
+        "especially babies",
+        "neck",
+        "clothes"
+    ],
+    "bicycle-built-for-two": [
+        "tandem (bicycle"
+    ],
+    "bikini": [
+        "brief two-piece bathing suit",
+        "women",
+        "midriff",
+        "navel"
+    ],
+    "binder": [],
+    "binoculars": [
+        "hand-held device",
+        "series",
+        "lenses",
+        "prisms",
+        "objects",
+        "distance",
+        "eyes"
+    ],
+    "birdhouse": [
+        "small house",
+        "birds"
+    ],
+    "boathouse": [
+        "building",
+        "edge",
+        "river",
+        "lake",
+        "body",
+        "water",
+        "boats"
+    ],
+    "bobsled": [
+        "bob track"
+    ],
+    "bolo tie": [
+        "necktie",
+        "heavy cord",
+        "ornamental clasp",
+        "slide"
+    ],
+    "bonnet": [
+        "type",
+        "hat",
+        "women",
+        "children",
+        "place",
+        "ribbons",
+        "chin"
+    ],
+    "bookcase": [
+        "piece",
+        "furniture",
+        "storage",
+        "display",
+        "books"
+    ],
+    "bookshop": [
+        "shop",
+        "books"
+    ],
+    "bottlecap": [],
+    "bow": [
+        "weapon",
+        "curved piece",
+        "wood",
+        "flexible material",
+        "ends",
+        "string",
+        "arrows"
+    ],
+    "bow tie": [
+        "man's necktie",
+        "bow",
+        "throat"
+    ],
+    "brass": [
+        "metallic alloy",
+        "copper",
+        "zinc",
+        "industrial plumbing applications"
+    ],
+    "brassiere": [
+        "item",
+        "underwear",
+        "breasts",
+        "bra"
+    ],
+    "breakwater": [
+        "construction",
+        "harbour",
+        "force",
+        "sea",
+        "shelter",
+        "vessels"
+    ],
+    "breastplate": [
+        "piece",
+        "armor",
+        "chest"
+    ],
+    "broom": [
+        "domestic utensil",
+        "fibers",
+        "end",
+        "long handle"
+    ],
+    "bucket": [
+        "container",
+        "rigid material",
+        "handle",
+        "liquids",
+        "small items"
+    ],
+    "buckle": [],
+    "bulletproof vest": [],
+    "bullet train": [
+        "high-speed passenger train",
+        "speeds",
+        "200-300 kilometers",
+        "hour",
+        "shinkansen network"
+    ],
+    "butcher shop": [
+        "market",
+        "meat"
+    ],
+    "cab": [
+        "taxi",
+        "taxicab"
+    ],
+    "caldron": [
+        "large bowl-shaped pot",
+        "open flame"
+    ],
+    "candle": [
+        "light source",
+        "wick",
+        "solid, flammable substance",
+        "wax",
+        "tallow"
+    ],
+    "cannon": [
+        "complete assembly",
+        "artillery tube",
+        "breech mechanism",
+        "mechanism",
+        "base cap",
+        "component",
+        "gun",
+        "howitzer",
+        "mortar",
+        "muzzle appendages"
+    ],
+    "canoe": [
+        "small long narrow boat",
+        "people",
+        "size",
+        "single-bladed paddles",
+        "paddlers",
+        "direction",
+        "travel",
+        "seated position",
+        "boat",
+        "Canoes",
+        "ends"
+    ],
+    "can opener": [
+        "device",
+        "tin cans",
+        "lid"
+    ],
+    "cardigan": [
+        "type",
+        "sweater",
+        "jumper",
+        "buttons",
+        "zipper",
+        "wool"
+    ],
+    "car mirror": [],
+    "carousel": [
+        "merry-go-round (type",
+        "ride",
+        "rotating platform"
+    ],
+    "carpenter's kit": [
+        "assembly",
+        "tools"
+    ],
+    "carton": [
+        "inexpensive, disposable box-like container",
+        "paper",
+        "paper",
+        "wax-covering (wax paper",
+        "lightweight material"
+    ],
+    "car wheel": [],
+    "cash machine": [
+        "automated teller machine"
+    ],
+    "cassette": [
+        "small flat case",
+        "magnetic tape",
+        "reels",
+        "audio video material"
+    ],
+    "cassette player": [
+        "device",
+        "prerecorded cassette tapes"
+    ],
+    "castle": [
+        "large building",
+        "defences",
+        "previous ages",
+        "nobleman",
+        "king"
+    ],
+    "catamaran": [
+        "twin-hulled ship",
+        "boat"
+    ],
+    "CD player": [],
+    "cello": [
+        "large stringed instrument",
+        "violin family",
+        "strings",
+        "highest C-G-D-A",
+        "bow",
+        "endpin",
+        "instrument's weight"
+    ],
+    "cellular telephone": [
+        "Mobile phone",
+        "cell phone"
+    ],
+    "chain": [
+        "series",
+        "interconnected rings",
+        "links",
+        "metal"
+    ],
+    "chainlink fence": [],
+    "chain mail": [
+        "flexible defensive armor",
+        "mesh",
+        "interlinked metal rings"
+    ],
+    "chain saw": [
+        "saw",
+        "power-driven fast-revolving chain",
+        "metal teeth",
+        "trees"
+    ],
+    "chest": [
+        "box",
+        "usually large strong box",
+        "secure convex",
+        "lid"
+    ],
+    "chiffonier": [
+        "tall, elegant chest",
+        "drawers",
+        "mirror"
+    ],
+    "chime": [
+        "musical instrument",
+        "sound",
+        "bell",
+        "(e.g. tubular metal bar",
+        "actually bell",
+        "plural",
+        "set",
+        "chimes"
+    ],
+    "china cabinet": [],
+    "Christmas stocking": [],
+    "church": [
+        "Christian house",
+        "worship",
+        "building",
+        "Christian religious services",
+        "place"
+    ],
+    "cinema": [
+        "movie theatre",
+        "movie house"
+    ],
+    "cleaver": [
+        "squarish, heavy knife",
+        "butchers",
+        "bones"
+    ],
+    "cliff dwelling": [],
+    "cloak": [
+        "long outer garment",
+        "shoulders",
+        "cape",
+        "hood"
+    ],
+    "clog": [
+        "type",
+        "shoe",
+        "inflexible, wooden sole",
+        "open heel"
+    ],
+    "cocktail shaker": [],
+    "coffee mug": [],
+    "coffeepot": [
+        "tall pot",
+        "coffee"
+    ],
+    "coil": [
+        "form",
+        "helix",
+        "spiral"
+    ],
+    "combination lock": [
+        "type",
+        "lock",
+        "sequence",
+        "numbers",
+        "symbols"
+    ],
+    "computer keyboard": [
+        "small board",
+        "keys",
+        "tactile input",
+        "machine"
+    ],
+    "confectionery": [
+        "Foodstuffs",
+        "group",
+        "candies",
+        "sweetmeats",
+        "confections"
+    ],
+    "container ship": [
+        "cargo vessel",
+        "cargo",
+        "containers"
+    ],
+    "convertible": [
+        "Interchangeable things",
+        "terms"
+    ],
+    "corkscrew": [
+        "implement",
+        "bottles",
+        "cork",
+        "specifically implement",
+        "screw-shaped",
+        "worm"
+    ],
+    "cornet": [
+        "musical instrument",
+        "brass family",
+        "trumpet",
+        "musical key",
+        "B-flat"
+    ],
+    "cowboy boot": [],
+    "cowboy hat": [
+        "broad-brimmed hat",
+        "cowboys",
+        "ranchers",
+        "farmers"
+    ],
+    "cradle": [
+        "bed",
+        "cot",
+        "baby",
+        "rockers",
+        "pivots"
+    ],
+    "crash helmet": [
+        "helmet",
+        "motorcyclists",
+        "head",
+        "case",
+        "accident"
+    ],
+    "crate": [
+        "large open box",
+        "basket",
+        "fragile goods"
+    ],
+    "crib": [
+        "baby\u2019s bed",
+        ", slatted, moveable sides",
+        "child",
+        "cradle",
+        "bassinet"
+    ],
+    "Crock Pot": [],
+    "croquet ball": [],
+    "crutch": [
+        "device",
+        "motion",
+        "cane",
+        "support",
+        "arm",
+        "weight",
+        "leg"
+    ],
+    "cuirass": [
+        "piece",
+        "defensive armor",
+        "body",
+        "neck",
+        "girdle"
+    ],
+    "dam": [
+        "structure",
+        "flowing body",
+        "water",
+        "flow",
+        "flow",
+        "purposes",
+        "water",
+        "release",
+        "accumulated water",
+        "abrupt flooding"
+    ],
+    "desk": [
+        "table",
+        "frame",
+        "case",
+        "past centuries",
+        "sloping",
+        "flat",
+        "use",
+        "writers",
+        "readers",
+        "drawer",
+        "repository underneath"
+    ],
+    "desktop computer": [],
+    "dial telephone": [],
+    "diaper": [
+        "textile fabric",
+        "diamond-shaped pattern",
+        "directions",
+        "thread"
+    ],
+    "digital clock": [],
+    "digital watch": [],
+    "dining table": [
+        "table",
+        "dining room",
+        "meals"
+    ],
+    "dishrag": [
+        "piece",
+        "cloth",
+        "washing dishes"
+    ],
+    "dishwasher": [
+        "machine",
+        "washing dishes"
+    ],
+    "disk brake": [
+        "type",
+        "brake",
+        "friction",
+        "brake pads",
+        "disc"
+    ],
+    "dock": [
+        "coarse weedy plants",
+        "small green flowers",
+        "especially common dock",
+        "potherbs",
+        "folk medicine"
+    ],
+    "dogsled": [
+        "dogs",
+        "ice",
+        "snow"
+    ],
+    "dome": [
+        "structural element",
+        "hollow upper half",
+        "sphere",
+        "cupola"
+    ],
+    "doormat": [
+        "coarse mat",
+        "entrance",
+        "house",
+        "one's shoes"
+    ],
+    "drilling platform": [],
+    "drum": [
+        "percussive musical instrument",
+        "thin covering",
+        "end",
+        "acoustic chamber",
+        "materials",
+        "membranophone"
+    ],
+    "drumstick": [
+        "stick",
+        "drums"
+    ],
+    "dumbbell": [
+        "weight training implement",
+        "short bar",
+        "weight",
+        "end"
+    ],
+    "Dutch oven": [],
+    "electric fan": [
+        "person"
+    ],
+    "electric guitar": [
+        "guitar",
+        "electronic amplification",
+        "sufficient sound"
+    ],
+    "electric locomotive": [],
+    "entertainment center": [],
+    "envelope": [
+        "paper",
+        "cardboard wrapper",
+        "small, flat items",
+        "especially letters",
+        "mailing"
+    ],
+    "espresso maker": [],
+    "face powder": [
+        "cosmetic",
+        "coloured talc",
+        "face"
+    ],
+    "feather boa": [
+        "decorative scarf",
+        "feathers"
+    ],
+    "file": [
+        "collection",
+        "papers"
+    ],
+    "fireboat": [
+        "harbor boat",
+        "large volumes",
+        "harbor water",
+        "dockside fires"
+    ],
+    "fire engine": [
+        "vehicle",
+        "firefighters",
+        "water",
+        "fire",
+        "fire engine",
+        "supply",
+        "water",
+        "ability",
+        "external water supply"
+    ],
+    "fire screen": [
+        "mesh grill",
+        "fire",
+        "sparks"
+    ],
+    "flagpole": [
+        "tall pole",
+        "flags"
+    ],
+    "flute": [
+        "woodwind instrument",
+        "tube",
+        "row",
+        "holes",
+        "sound",
+        "vibrations",
+        "air",
+        "edge",
+        "holes",
+        "holes",
+        "finger",
+        "Western concert flute",
+        "transverse side-blown flute",
+        "European origin"
+    ],
+    "folding chair": [],
+    "football helmet": [],
+    "forklift": [
+        "small industrial vehicle",
+        "power-operated fork-like pronged platform",
+        "insertion",
+        "load",
+        "pallets"
+    ],
+    "fountain": [
+        "natural source",
+        "water",
+        "spring"
+    ],
+    "fountain pen": [
+        "pen",
+        "reservoir",
+        "ink",
+        "writing"
+    ],
+    "four-poster": [
+        "four-poster bed",
+        "high posts",
+        "corner",
+        "canopy"
+    ],
+    "freight car": [
+        "railway wagon",
+        "goods"
+    ],
+    "French horn": [
+        "hard growth",
+        "head",
+        "certain animals"
+    ],
+    "frying pan": [
+        "long-handled, shallow pan",
+        "food"
+    ],
+    "fur coat": [],
+    "garbage truck": [
+        "vehicle",
+        "collection",
+        "removal",
+        "domestic waste"
+    ],
+    "gasmask": [
+        "covering",
+        "face",
+        "filter",
+        "user",
+        "poisonous gas"
+    ],
+    "gas pump": [
+        "device",
+        "gas station",
+        "gasoline"
+    ],
+    "goblet": [
+        "drinking vessel",
+        "foot",
+        "stem"
+    ],
+    "go-kart": [
+        "small, open-wheeled vehicle",
+        "racing"
+    ],
+    "golf ball": [
+        "small, usually white ball",
+        "use",
+        "game",
+        "golf"
+    ],
+    "golfcart": [
+        "small four-wheeled motorized vehicle",
+        "golf course"
+    ],
+    "gondola": [
+        "small long, narrow boat",
+        "high prow",
+        "single oar"
+    ],
+    "gong": [
+        "percussion instrument",
+        "metal disk",
+        "sonorous sound",
+        "soft hammer"
+    ],
+    "gown": [
+        "upper garment"
+    ],
+    "grand piano": [
+        "large piano",
+        "strings",
+        "heavy frame",
+        "harp"
+    ],
+    "greenhouse": [
+        "building",
+        "plants",
+        "large glass windows",
+        "plastic sheeting",
+        "heat",
+        "sunlight",
+        "intemperate seasons",
+        "climates"
+    ],
+    "grille": [
+        "grating",
+        "grid",
+        "wire",
+        "sheet",
+        "material",
+        "pattern",
+        "holes",
+        "slots",
+        "passage",
+        "air",
+        "liquids",
+        "Typical uses",
+        "air",
+        "fan",
+        "fingers",
+        "objects",
+        "people",
+        "somebody",
+        "attack"
+    ],
+    "grocery store": [
+        "store",
+        "groceries",
+        "; supermarket"
+    ],
+    "guillotine": [
+        "machine",
+        "application",
+        "capital punishment",
+        "decapitation",
+        "tall upright frame",
+        "heavy diagonal-edged blade"
+    ],
+    "hair slide": [],
+    "hair spray": [
+        "usually scented hairstyling product",
+        "aerosol form",
+        "hair",
+        "certain hairstyle"
+    ],
+    "half track": [],
+    "hammer": [
+        "tool",
+        "heavy head",
+        "handle"
+    ],
+    "hamper": [
+        "large basket",
+        "cover",
+        "packing",
+        "carrying",
+        "articles",
+        "small animals"
+    ],
+    "hand blower": [],
+    "hand-held computer": [],
+    "handkerchief": [
+        "piece",
+        "cloth",
+        "face",
+        "eyes",
+        "nose",
+        "hands"
+    ],
+    "hard disc": [
+        "series",
+        "parallel magnetic recording disks",
+        "drive unit",
+        "recording",
+        "retrieval",
+        "digital information",
+        "personal computers"
+    ],
+    "harmonica": [
+        "musical wind instrument",
+        "series",
+        "holes",
+        "player",
+        "hole",
+        "different note"
+    ],
+    "harp": [
+        "musical instrument",
+        "body",
+        "curved neck",
+        "strings",
+        "varying length",
+        "fingers",
+        "soundboard",
+        "end",
+        "body"
+    ],
+    "harvester": [
+        "person",
+        "harvest"
+    ],
+    "hatchet": [
+        "small light axe",
+        "short handle",
+        "tomahawk"
+    ],
+    "holster": [
+        "case",
+        "tool",
+        "particularly gun"
+    ],
+    "home theater": [
+        "system",
+        "theater-quality films",
+        "home",
+        "high-definition television",
+        "sound"
+    ],
+    "honeycomb": [
+        "structure",
+        "hexagonal cells",
+        "bees",
+        "wax",
+        "larvae",
+        "honey",
+        "larvae",
+        "winter"
+    ],
+    "hook": [
+        "rod",
+        "curved shape",
+        "end",
+        "rope",
+        "attachment"
+    ],
+    "hoopskirt": [
+        "stiff fabric",
+        "cotton",
+        "horsehair"
+    ],
+    "horizontal bar": [
+        "horizontally-aligned bar",
+        "gymnastics",
+        "acts",
+        "swinging"
+    ],
+    "horse cart": [],
+    "hourglass": [
+        "clock",
+        "glass vessels",
+        "narrow passage",
+        "sand"
+    ],
+    "iPod": [],
+    "iron": [
+        "common, inexpensive metal",
+        "silvery grey",
+        "rusts",
+        "magnets",
+        "steel"
+    ],
+    "jack-o'-lantern": [
+        "carved pumpkin",
+        "stem",
+        "hollow shell",
+        "face",
+        "candle"
+    ],
+    "jean": [],
+    "jeep": [
+        "small, blocky, military-style vehicle",
+        "four-wheel drive",
+        "rough terrain"
+    ],
+    "jersey": [
+        "garment",
+        "wool",
+        "upper body"
+    ],
+    "jigsaw puzzle": [
+        "type",
+        "puzzle",
+        "aim",
+        "picture",
+        "jigsaw",
+        "small interlocking pieces"
+    ],
+    "jinrikisha": [
+        "two-wheeled carriage",
+        "person"
+    ],
+    "joystick": [
+        "mechanical device",
+        "handgrip",
+        "base",
+        "pedestal",
+        "buttons",
+        "aircraft",
+        "computer",
+        "equipment"
+    ],
+    "kimono": [
+        "traditional Japanese robe-like garment",
+        "body",
+        "formal occasions"
+    ],
+    "knee pad": [
+        "protective garment",
+        "knee",
+        "injury",
+        "example",
+        "blow",
+        "fall"
+    ],
+    "knot": [
+        "looping",
+        "piece",
+        "string",
+        "long, flexible material",
+        "ends",
+        "material",
+        "loops"
+    ],
+    "lab coat": [
+        "white coat",
+        "laboratory workers",
+        "day clothes",
+        "damage"
+    ],
+    "ladle": [
+        "deep-bowled spoon"
+    ],
+    "lampshade": [
+        "cover",
+        "lamp",
+        "light",
+        "certain directions",
+        "glare",
+        "eyes"
+    ],
+    "laptop": [
+        "laptop computer"
+    ],
+    "lawn mower": [
+        "lawnmower",
+        "machine",
+        "grass"
+    ],
+    "lens cap": [
+        "detachable cap",
+        "camera lens",
+        "camera",
+        "use"
+    ],
+    "letter opener": [
+        "knifelike device",
+        "blunt edge",
+        "letters"
+    ],
+    "library": [
+        "institution",
+        "books",
+        "forms",
+        "media",
+        "use",
+        "public qualified people",
+        "services",
+        "users"
+    ],
+    "lifeboat": [
+        "boat",
+        "lives",
+        "shipwrecked people",
+        "people",
+        "distress",
+        "sea",
+        "shore",
+        "crew",
+        "board",
+        "larger ship"
+    ],
+    "lighter": [],
+    "limousine": [
+        "automobile body",
+        "seats",
+        "permanent",
+        "coupe",
+        "projecting",
+        "driver",
+        "projecting"
+    ],
+    "liner": [
+        "lining"
+    ],
+    "lipstick": [
+        "Makeup",
+        "lips"
+    ],
+    "Loafer": [
+        "idle person"
+    ],
+    "lotion": [
+        "low- medium-viscosity topical preparation",
+        "application",
+        "unbroken skin"
+    ],
+    "loudspeaker": [
+        "electromechanical transducer",
+        "electrical signal",
+        "audible sound"
+    ],
+    "loupe": [
+        "magnifying glass",
+        "eyepiece",
+        "jewellers",
+        "watchmakers"
+    ],
+    "lumbermill": [
+        "machine",
+        "building",
+        "company",
+        "(milling) lumber"
+    ],
+    "magnetic compass": [
+        "instrument",
+        "freely suspended magnetic element",
+        "direction",
+        "horizontal component",
+        "point",
+        "observation"
+    ],
+    "mailbag": [
+        "strong canvas bag",
+        "transportation",
+        "mail"
+    ],
+    "mailbox": [
+        "box",
+        "mail"
+    ],
+    "maillot": [
+        "one-piece swimsuit",
+        "women"
+    ],
+    "manhole cover": [],
+    "maraca": [
+        "Latin American percussion instrument",
+        "hollow-gourd rattle",
+        "pebbles",
+        "beans",
+        "pairs",
+        "rhythm instrument"
+    ],
+    "marimba": [
+        "musical instrument",
+        "xylophone",
+        "pitch"
+    ],
+    "mask": [
+        "cover",
+        "partial cover",
+        "face",
+        "disguise",
+        "protection"
+    ],
+    "matchstick": [
+        "small, slender piece",
+        "wood",
+        "component",
+        "match"
+    ],
+    "maypole": [
+        "pole",
+        "streamers",
+        "people"
+    ],
+    "maze": [
+        "puzzle",
+        "complicated network",
+        "paths",
+        "passages",
+        "aim",
+        "one's way"
+    ],
+    "measuring cup": [
+        "volume",
+        "liquid bulk solid cooking ingredients"
+    ],
+    "medicine chest": [
+        "medicine cabinet"
+    ],
+    "megalith": [
+        "construction",
+        "roughly hewn stone slabs",
+        "great size"
+    ],
+    "microphone": [
+        "device",
+        "transducer",
+        "sound waves",
+        "varying electric current",
+        "amplifier"
+    ],
+    "microwave": [
+        "electromagnetic wave",
+        "wavelength",
+        "infrared light radio waves"
+    ],
+    "military uniform": [],
+    "milk can": [],
+    "minibus": [
+        "small bus",
+        "transport",
+        "small groups"
+    ],
+    "miniskirt": [
+        "short skirt",
+        "hemline",
+        "knees",
+        "mid-thigh level"
+    ],
+    "minivan": [
+        "small van"
+    ],
+    "missile": [
+        "object",
+        "weapon",
+        "air",
+        "stone",
+        "arrow",
+        "bullet"
+    ],
+    "mitten": [
+        "type",
+        "glove",
+        "garment",
+        "hand",
+        "separate sheath",
+        "thumb",
+        "fingers",
+        "single section"
+    ],
+    "mixing bowl": [
+        "large bowl",
+        "ingredients",
+        "purpose",
+        "food"
+    ],
+    "mobile home": [
+        "prefabricated home",
+        "factory",
+        "site",
+        "place"
+    ],
+    "Model T": [],
+    "modem": [
+        "device",
+        "digital computer signals",
+        "analog/analogue telephone signals",
+        "computers",
+        "phone line"
+    ],
+    "monastery": [
+        "housing monks",
+        "religious vows"
+    ],
+    "monitor": [
+        "person",
+        "charge"
+    ],
+    "moped": [],
+    "mortar": [
+        "mixture",
+        "lime",
+        "cement",
+        "sand",
+        "water",
+        "building blocks"
+    ],
+    "mortarboard": [
+        "square board",
+        "handle",
+        "mortar",
+        "plaster",
+        "hawk"
+    ],
+    "mosque": [
+        "place",
+        "worship",
+        "minaret",
+        "masjid"
+    ],
+    "mosquito net": [
+        "fine net",
+        "bed",
+        "window opening",
+        "protection",
+        "mosquitoes",
+        "insects",
+        "diseases"
+    ],
+    "motor scooter": [
+        "small motorcycle",
+        "step-through frame"
+    ],
+    "mountain bike": [
+        "bicycle",
+        "road",
+        "straight, flat handlebars",
+        "heavier frame",
+        "road bikes",
+        "higher ground clearance",
+        "wider tires",
+        "knobs",
+        "greater traction"
+    ],
+    "mountain tent": [],
+    "mouse": [
+        "small rodent"
+    ],
+    "mousetrap": [
+        "device",
+        "mice",
+        "rodents"
+    ],
+    "moving van": [],
+    "muzzle": [
+        "protruding",
+        "animal's head",
+        "nose",
+        "mouth",
+        "jaws",
+        "snout"
+    ],
+    "nail": [
+        "thin, horny plate",
+        "ends",
+        "fingers",
+        "toes",
+        "humans",
+        "animals"
+    ],
+    "neck brace": [],
+    "necklace": [
+        "article",
+        "jewelry",
+        "neck",
+        "string",
+        "precious metal",
+        "pearls",
+        "gems",
+        "beads",
+        "shells"
+    ],
+    "nipple": [
+        "projection",
+        "mammary gland",
+        "female mammals",
+        "milk"
+    ],
+    "notebook": [
+        "book",
+        "notes",
+        "memoranda"
+    ],
+    "obelisk": [
+        "pyramidal point",
+        "monument"
+    ],
+    "oboe": [
+        "soprano",
+        "wind instrument",
+        "modern orchestra",
+        "wind",
+        "smaller instrument",
+        "grenadilla wood",
+        "member",
+        "double reed family"
+    ],
+    "ocarina": [
+        "woodwind musical instrument",
+        "sides",
+        "enclosed space",
+        "finger holes"
+    ],
+    "odometer": [
+        "instrument",
+        "wheel",
+        "vehicle",
+        "distance"
+    ],
+    "oil filter": [],
+    "organ": [
+        "larger",
+        "organism",
+        "tissues",
+        "similar functions"
+    ],
+    "oscilloscope": [
+        "electronic measuring instrument",
+        "visible two-dimensional graph",
+        "screen",
+        "continuously varying voltages",
+        "currents"
+    ],
+    "overskirt": [
+        "skirt",
+        "layer",
+        "petticoat"
+    ],
+    "oxcart": [],
+    "oxygen mask": [
+        "plastic rubber mask",
+        "oxygen",
+        "storage tank"
+    ],
+    "packet": [
+        "small pack",
+        "package",
+        "little bundle"
+    ],
+    "paddle": [
+        "two-handed, single-bladed oar",
+        "canoe",
+        "small boat"
+    ],
+    "paddlewheel": [
+        "large wheel",
+        "thick slats",
+        "engine",
+        "boat"
+    ],
+    "padlock": [
+        "detachable lock",
+        "means",
+        "sliding hinged shackle"
+    ],
+    "paintbrush": [
+        "thin brush",
+        "paint"
+    ],
+    "pajama": [
+        "pair",
+        "pajamas"
+    ],
+    "palace": [
+        "Official residence",
+        "head",
+        "state",
+        "dignitary",
+        "monarchical imperial governmental system"
+    ],
+    "panpipe": [
+        "set",
+        "panpipes"
+    ],
+    "paper towel": [
+        "sheet",
+        "absorbent paper",
+        "cleaning food preparation",
+        "rolls"
+    ],
+    "parachute": [
+        "device",
+        "fabric",
+        "air resistance",
+        "fall",
+        "object"
+    ],
+    "parallel bars": [
+        "set",
+        "apparatus",
+        "horizontal bars",
+        "small distance",
+        "male gymnasts",
+        "jumping"
+    ],
+    "park bench": [],
+    "parking meter": [
+        "device",
+        "parking space",
+        "payment",
+        "exchange",
+        "right",
+        "vehicle",
+        "specified time"
+    ],
+    "passenger car": [
+        "wheeled vehicle",
+        "horse power"
+    ],
+    "patio": [
+        "paved outside area",
+        "house",
+        "dining",
+        "recreation"
+    ],
+    "pay-phone": [],
+    "pedestal": [
+        "base",
+        "foot",
+        "column",
+        "statue, vase, lamp"
+    ],
+    "pencil box": [
+        "container",
+        "stationery",
+        "pencils",
+        "pens",
+        "rubber"
+    ],
+    "pencil sharpener": [
+        "device",
+        "pencils",
+        "wood",
+        "end"
+    ],
+    "perfume": [
+        "pleasant smell",
+        "scent, odor, odoriferous particles",
+        "sweet-smelling substance",
+        "pleasant odor"
+    ],
+    "Petri dish": [
+        "shallow glass dish",
+        "loose-fitting cover",
+        "bacteria"
+    ],
+    "photocopier": [
+        "machine",
+        "documents",
+        "original",
+        "glass plate",
+        "printing duplicates"
+    ],
+    "pick": [
+        "tool",
+        "pickaxe"
+    ],
+    "pickelhaube": [
+        "spiked helmet",
+        "German troops"
+    ],
+    "picket fence": [
+        "simple fence",
+        "wooden pickets",
+        "horizontal bars"
+    ],
+    "pickup": [
+        "electronic device",
+        "sound",
+        "vibration",
+        "electric guitar record player"
+    ],
+    "pier": [
+        "raised platform",
+        "shore",
+        "water",
+        "piles",
+        "access",
+        "shipping"
+    ],
+    "piggy bank": [
+        "small container",
+        "form",
+        "pig",
+        "small saved coins",
+        "\"bank",
+        "contents"
+    ],
+    "pill bottle": [],
+    "pillow": [
+        "soft cushion",
+        "head",
+        "bed"
+    ],
+    "ping-pong ball": [],
+    "pinwheel": [
+        "artificial flower",
+        "children",
+        "flower",
+        "wind",
+        "small paper windmill"
+    ],
+    "pirate": [
+        "criminal",
+        "sea",
+        "merchant vessels",
+        "port towns"
+    ],
+    "pitcher": [
+        "quoits",
+        "ball"
+    ],
+    "plane": [
+        "level",
+        "flat surface"
+    ],
+    "planetarium": [
+        "display museum",
+        "images",
+        "stars",
+        "astronomical phenomena",
+        "domed ceiling"
+    ],
+    "plastic bag": [
+        "type",
+        "packaging",
+        "thin, flexible, plastic film",
+        "starch",
+        "plastic textile",
+        "food",
+        "waste",
+        "consumer goods"
+    ],
+    "plate rack": [],
+    "plow": [
+        "notional area",
+        "land",
+        "year",
+        "team",
+        "8 oxen",
+        "carruca plow",
+        "120 acres"
+    ],
+    "plunger": [
+        "device",
+        "blockages",
+        "drain",
+        "basin",
+        "tub",
+        "suction"
+    ],
+    "Polaroid camera": [],
+    "pole": [
+        "Originally, stick",
+        "specifically, long slender piece",
+        "metal",
+        "(especially) wood",
+        "construction",
+        "support purposes"
+    ],
+    "police van": [
+        "police van",
+        "prisoners"
+    ],
+    "poncho": [
+        "simple garment",
+        "rectangle",
+        "cloth",
+        "slit",
+        "middle",
+        "head"
+    ],
+    "pool table": [
+        "heavy felt-covered table",
+        "pockets",
+        "perimeter",
+        "games",
+        "pool",
+        "billiards",
+        "snooker"
+    ],
+    "pop bottle": [],
+    "pot": [
+        "flat-bottomed vessel",
+        "(usually metal",
+        "food"
+    ],
+    "potter's wheel": [
+        "turntable type",
+        "machine",
+        "potter",
+        "round pieces",
+        "pottery",
+        "wet clay"
+    ],
+    "power drill": [],
+    "prayer rug": [
+        "small rug"
+    ],
+    "printer": [
+        "prints"
+    ],
+    "prison": [
+        "place",
+        "institution",
+        "confinement",
+        "long-term confinement",
+        "crimes",
+        "government"
+    ],
+    "projectile": [
+        "object",
+        "weapon"
+    ],
+    "projector": [
+        "project",
+        "proposer",
+        "planner"
+    ],
+    "puck": [
+        "mischievous hostile spirit"
+    ],
+    "punching bag": [
+        "device",
+        "tough cloth bag",
+        "sand",
+        "material",
+        "punching",
+        "kicking"
+    ],
+    "purse": [
+        "small bag",
+        "money"
+    ],
+    "quill": [
+        "lower shaft",
+        "specifically region lacking barbs"
+    ],
+    "quilt": [
+        "bed",
+        "layers",
+        "fabric",
+        "insulation",
+        "decorative design"
+    ],
+    "racer": [
+        "race"
+    ],
+    "racket": [
+        "racquet",
+        "implement",
+        "handle",
+        "round frame",
+        "wire",
+        "ball",
+        "tennis",
+        "birdie"
+    ],
+    "radiator": [],
+    "radio": [
+        "technology",
+        "transmission",
+        "sound signals",
+        "modulation",
+        "electromagnetic waves"
+    ],
+    "radio telescope": [
+        "device",
+        "astronomical sources",
+        "radio waves",
+        "large parabolic dishes"
+    ],
+    "rain barrel": [],
+    "recreational vehicle": [],
+    "reel": [
+        "gait"
+    ],
+    "reflex camera": [
+        "camera",
+        "photographer",
+        "exact image",
+        "earlier viewfinder cameras"
+    ],
+    "refrigerator": [
+        "household appliance",
+        "food",
+        "refrigeration",
+        "(short form fridge"
+    ],
+    "remote control": [
+        "device",
+        "appliance",
+        "television",
+        "vehicle",
+        "mechanical toy",
+        "short distance"
+    ],
+    "restaurant": [
+        "eating establishment",
+        "diners",
+        "food",
+        "waiters",
+        "tables",
+        "fast food restaurant",
+        "counter"
+    ],
+    "revolver": [
+        "handgun",
+        "revolving chamber",
+        "shots"
+    ],
+    "rifle": [
+        "firearm",
+        "long, rifled barrel",
+        "range",
+        "accuracy"
+    ],
+    "rocking chair": [
+        "chair",
+        "curved base"
+    ],
+    "rotisserie": [
+        "cooking device",
+        "food",
+        "rotating spit"
+    ],
+    "rubber eraser": [
+        "Pliable material",
+        "sap",
+        "rubber tree",
+        "hydrocarbon polymer",
+        "isoprene"
+    ],
+    "rugby ball": [],
+    "rule": [
+        "regulation",
+        "law",
+        "guideline"
+    ],
+    "running shoe": [],
+    "safe": [
+        "box",
+        "metal",
+        "valuables"
+    ],
+    "safety pin": [
+        "pin",
+        "form",
+        "clasp",
+        "guard",
+        "sharp point",
+        "pieces",
+        "fabric"
+    ],
+    "saltshaker": [],
+    "sandal": [
+        "type",
+        "open shoe",
+        "straps",
+        "bands",
+        "sole",
+        "foot"
+    ],
+    "sarong": [
+        "garment",
+        "length",
+        "printed cloth",
+        "waist",
+        "men",
+        "women"
+    ],
+    "sax": [
+        "slate-cutter's hammer",
+        "slate-ax"
+    ],
+    "scabbard": [
+        "sheath",
+        "sword"
+    ],
+    "scale": [
+        "ladder",
+        "series",
+        "steps",
+        "means",
+        "ascending"
+    ],
+    "school bus": [],
+    "schooner": [
+        "masts",
+        "fore-and-aft sails",
+        "foremast",
+        "mainmast"
+    ],
+    "scoreboard": [
+        "large board",
+        "score",
+        "game",
+        "contest"
+    ],
+    "screen": [
+        "physical divider",
+        "area",
+        "view",
+        "shelter"
+    ],
+    "screw": [
+        "device",
+        "helical function"
+    ],
+    "screwdriver": [
+        "hand machine tool",
+        "head",
+        "screw",
+        "torque",
+        "screw"
+    ],
+    "seat belt": [
+        "restraining belt",
+        "vehicle seat",
+        "passengers",
+        "occupant",
+        "place",
+        "injuries",
+        "accidents",
+        "occupant",
+        "solid object"
+    ],
+    "sewing machine": [
+        "mechanical electromechanical device",
+        "cloth",
+        "material",
+        "threads",
+        "lock stitches"
+    ],
+    "shield": [
+        "defense",
+        "shelter",
+        "protection"
+    ],
+    "shoe shop": [],
+    "shoji": [
+        "door",
+        "partition",
+        "wooden frame",
+        "rice paper"
+    ],
+    "shopping basket": [
+        "basket",
+        "groceries",
+        "merchandise"
+    ],
+    "shopping cart": [
+        "conveyance",
+        "groceries",
+        "items",
+        "store"
+    ],
+    "shovel": [
+        "hand tool",
+        "handle",
+        "portions",
+        "material",
+        "earth",
+        "snow",
+        "grain",
+        "place",
+        "forms",
+        "spade",
+        "small-scale digging",
+        "incidental tasks",
+        "chopping",
+        "small roots"
+    ],
+    "shower cap": [],
+    "shower curtain": [],
+    "ski": [
+        "pair",
+        "long flat runners",
+        "snow",
+        "water"
+    ],
+    "ski mask": [
+        "warm cap",
+        "neck",
+        "head",
+        "wool",
+        "skiing"
+    ],
+    "sleeping bag": [
+        "padded insulated bag",
+        "body",
+        "user",
+        "substitute",
+        "bedclothes"
+    ],
+    "slide rule": [
+        "analog calculator",
+        "interlocking strips",
+        "logarithmic scales",
+        "multiplication",
+        "division",
+        "etc",
+        "equivalent",
+        "addition",
+        "subtraction"
+    ],
+    "sliding door": [
+        "door",
+        "pair"
+    ],
+    "slot": [
+        "broad, flat, wooden bar",
+        "slat",
+        "door",
+        "window"
+    ],
+    "snorkel": [
+        "hollow tube",
+        "mouth",
+        "diving mask",
+        "swimmers",
+        "breathing underwater"
+    ],
+    "snowmobile": [
+        "vehicle",
+        "skis",
+        "caterpillar track",
+        "rear",
+        "snow",
+        "sport"
+    ],
+    "snowplow": [
+        "vehicle",
+        "snow",
+        "surfaces",
+        "roads"
+    ],
+    "soap dispenser": [],
+    "soccer ball": [],
+    "sock": [
+        "knitted",
+        "foot"
+    ],
+    "solar dish": [],
+    "sombrero": [
+        "kind",
+        "hat",
+        "high conical cylindrical crown",
+        "saucer-shaped brim",
+        "plush"
+    ],
+    "soup bowl": [],
+    "space bar": [
+        "key",
+        "shape",
+        "bar",
+        "keyboard",
+        "space character"
+    ],
+    "space heater": [
+        "portable heating appliance",
+        "area",
+        "room"
+    ],
+    "space shuttle": [
+        "vehicle",
+        "outer space",
+        "people",
+        "cargo"
+    ],
+    "spatula": [
+        "flat surface",
+        "long handle",
+        "lifting",
+        "food"
+    ],
+    "speedboat": [
+        "fast boat",
+        "1-8 people"
+    ],
+    "spider web": [],
+    "spindle": [
+        "(spinning) rod",
+        "spinning",
+        "winding natural fibres",
+        "especially wool",
+        "shaft",
+        "circular whorl",
+        "upper lower end",
+        "shaft",
+        "forming thread"
+    ],
+    "sports car": [
+        "automobile",
+        "high speed",
+        "power",
+        "tight handling",
+        "flashy looks"
+    ],
+    "spotlight": [
+        "bright, directional light",
+        "lamp",
+        "focus",
+        "center",
+        "attention",
+        "stage"
+    ],
+    "stage": [
+        "phase"
+    ],
+    "steam locomotive": [],
+    "steel arch bridge": [],
+    "steel drum": [
+        "percussion instrument",
+        "drum",
+        "steel"
+    ],
+    "stethoscope": [
+        "medical instrument",
+        "sounds",
+        "body",
+        "sphygmomanometer"
+    ],
+    "stole": [],
+    "stone wall": [],
+    "stopwatch": [
+        "timepiece",
+        "time",
+        "particular time",
+        "piece"
+    ],
+    "stove": [
+        "heater",
+        "closed apparatus",
+        "fuel",
+        "warming",
+        "room"
+    ],
+    "strainer": [
+        "liquid",
+        "purification",
+        "filtering",
+        "separation",
+        "solid matter",
+        "screen",
+        "cloth",
+        "liquid"
+    ],
+    "streetcar": [
+        "light rail vehicle",
+        "usually single car",
+        "city streets",
+        "trolley car"
+    ],
+    "stretcher": [],
+    "studio couch": [],
+    "stupa": [
+        "dome-shaped Buddhist monument",
+        "relics"
+    ],
+    "submarine": [
+        "boat"
+    ],
+    "suit": [
+        "set",
+        "clothes",
+        "especially man's matching jacket",
+        "trousers",
+        "business suit",
+        "lounge suit",
+        "similar outfit",
+        "woman"
+    ],
+    "sundial": [
+        "device",
+        "time",
+        "day",
+        "position",
+        "shadow",
+        "pole",
+        "plate",
+        "engraved series",
+        "marks"
+    ],
+    "sunglass": [],
+    "sunglasses": [
+        "Tinted glasses",
+        "eyes",
+        "sun"
+    ],
+    "sunscreen": [
+        "cream",
+        "skin",
+        "organic compounds",
+        "titanium dioxide",
+        "sun\u2019s ultraviolet radiation"
+    ],
+    "suspension bridge": [
+        "bridge",
+        "deck",
+        "roadway",
+        "cables"
+    ],
+    "swab": [
+        "small piece",
+        "soft, absorbent material",
+        "gauze",
+        "wounds",
+        "medicine",
+        "samples",
+        "body fluids",
+        "stick",
+        "wire",
+        "access"
+    ],
+    "sweatshirt": [
+        "loose shirt",
+        "knit fleece",
+        "athletic wear",
+        "casual apparel"
+    ],
+    "swimming trunks": [
+        "pair",
+        "shorts",
+        "briefs",
+        "swimming",
+        "bathing"
+    ],
+    "swing": [
+        "manner"
+    ],
+    "switch": [
+        "bundle",
+        "thin sticks",
+        "wood",
+        "way",
+        "tightness",
+        "binding"
+    ],
+    "syringe": [
+        "device",
+        "drawing",
+        "fluids",
+        "membrane"
+    ],
+    "table lamp": [
+        "lamp",
+        "tables"
+    ],
+    "tank": [
+        "closed container",
+        "liquids",
+        "gases"
+    ],
+    "tape player": [],
+    "teapot": [
+        "vessel",
+        "brewing",
+        "tea"
+    ],
+    "teddy": [
+        "extension"
+    ],
+    "television": [
+        "electronic communication",
+        "medium",
+        "transmission",
+        "real-time visual images"
+    ],
+    "tennis ball": [],
+    "thatch": [
+        "Straw",
+        "roofs",
+        "buildings",
+        "stacks",
+        "hay",
+        "grain"
+    ],
+    "theater curtain": [],
+    "thimble": [
+        "pitted, usually metal, cap",
+        "fingers",
+        "sewing",
+        "needle"
+    ],
+    "thresher": [],
+    "throne": [
+        "impressive seat",
+        "monarch",
+        "raised dais",
+        "throne room",
+        "formal occasions"
+    ],
+    "tile roof": [],
+    "toaster": [
+        "cooks"
+    ],
+    "tobacco shop": [
+        "person",
+        "tobacco",
+        "cigarettes",
+        "cigars",
+        "snuff sundry items"
+    ],
+    "toilet seat": [],
+    "torch": [
+        "stick",
+        "flame",
+        "end",
+        "light source",
+        "similarly shaped implement",
+        "replaceable supply",
+        "flammable material"
+    ],
+    "totem pole": [
+        "Native American sculpture",
+        "trees"
+    ],
+    "tow truck": [
+        "person",
+        "company",
+        "old wrecked vehicles",
+        "items",
+        "useful parts"
+    ],
+    "toyshop": [
+        "shop",
+        "toys"
+    ],
+    "tractor": [
+        "vehicle",
+        "farms",
+        "farm equipment",
+        "fields"
+    ],
+    "trailer truck": [
+        "semi-tractor truck"
+    ],
+    "tray": [
+        "small, typically rectangular round, flat, rigid object",
+        "things"
+    ],
+    "trench coat": [
+        "military-style raincoat",
+        "belt",
+        "deep pockets",
+        "epaulettes"
+    ],
+    "tricycle": [
+        "cycle",
+        "wheels",
+        "pedals",
+        "young children"
+    ],
+    "trimaran": [
+        "type",
+        "boat",
+        "parallel hulls"
+    ],
+    "tripod": [
+        "three-legged stand"
+    ],
+    "triumphal arch": [],
+    "trolleybus": [
+        "bus",
+        "overhead electric cables",
+        "tracks"
+    ],
+    "trombone": [
+        "musical instrument",
+        "brass family",
+        "cylindrical bore",
+        "tenor trombone",
+        "common type",
+        "trombone",
+        "fundamental tone"
+    ],
+    "tub": [
+        "flat-bottomed vessel",
+        "height",
+        "things",
+        "things"
+    ],
+    "turnstile": [
+        "rotating mechanical device",
+        "passage",
+        "public areas",
+        "passage",
+        "charge"
+    ],
+    "typewriter keyboard": [],
+    "umbrella": [
+        "protection",
+        "rain",
+        "sun"
+    ],
+    "unicycle": [
+        "cycle",
+        "wheel",
+        "pedals",
+        "acrobats"
+    ],
+    "upright": [
+        "vertical",
+        "structure",
+        "goal posts",
+        "sports"
+    ],
+    "vacuum": [
+        "region",
+        "space",
+        "matter"
+    ],
+    "vase": [
+        "upright open container",
+        "fresh, dried, artificial flowers"
+    ],
+    "vault": [
+        "arched masonry structure",
+        "ceiling",
+        "larger building"
+    ],
+    "velvet": [
+        "closely woven fabric",
+        "silk",
+        "cotton",
+        "man-made fibres",
+        "thick short pile"
+    ],
+    "vending machine": [
+        "automatic machine",
+        "merchandise",
+        "return",
+        "money"
+    ],
+    "vestment": [
+        "robe",
+        "gown",
+        "article",
+        "clothing",
+        "indication",
+        "office"
+    ],
+    "viaduct": [
+        "bridge",
+        "spans",
+        "road rail traffic",
+        "valley",
+        "obstacles"
+    ],
+    "violin": [
+        "musical four-string instrument",
+        "bow",
+        "string",
+        "pitch",
+        "strings",
+        "appropriate place",
+        "fingers",
+        "instrument",
+        "violin family"
+    ],
+    "volleyball": [
+        "game",
+        "rectangular court",
+        "teams",
+        "players",
+        "ball",
+        "net"
+    ],
+    "waffle iron": [
+        "cooking appliance",
+        "hinged, indented metal plates",
+        "waffles"
+    ],
+    "wall clock": [],
+    "wallet": [
+        "small case",
+        "leather",
+        "money",
+        "especially paper money",
+        "credit cards"
+    ],
+    "wardrobe": [
+        "room",
+        "clothes",
+        "armor",
+        "particularly dressing room",
+        "closet",
+        "bedroom"
+    ],
+    "warplane": [
+        "aircraft",
+        "combat"
+    ],
+    "washbasin": [
+        "basin",
+        "washing",
+        "particularly permanently installed sink",
+        "water supply",
+        "drain",
+        "hands",
+        "face"
+    ],
+    "washer": [
+        "especially appliance",
+        "washing machine",
+        "dishwasher"
+    ],
+    "water bottle": [],
+    "water jug": [],
+    "water tower": [
+        "water",
+        "elevated position",
+        "local reservoir",
+        "water",
+        "tank",
+        "gravity",
+        "consumers"
+    ],
+    "whiskey jug": [],
+    "whistle": [
+        "device",
+        "mouth",
+        "steam",
+        "mechanism",
+        "whistling sound"
+    ],
+    "wig": [
+        "head",
+        "real synthetic hair",
+        "head",
+        "cultural religious reasons",
+        "fashion",
+        "actors",
+        "character"
+    ],
+    "window screen": [],
+    "window shade": [],
+    "Windsor tie": [],
+    "wine bottle": [
+        "tall bottle",
+        "long neck",
+        "dark clear glass",
+        "wine"
+    ],
+    "wing": [
+        "appendage",
+        "animal's (bird, bat, insect) body",
+        "similar fin",
+        "ray",
+        "similar fish"
+    ],
+    "wok": [
+        "large, oriental, round-bottomed cooking pan"
+    ],
+    "wooden spoon": [
+        "spoon",
+        "wood",
+        "food preparation"
+    ],
+    "wool": [
+        "hair",
+        "sheep",
+        "ruminants"
+    ],
+    "worm fence": [
+        "zigzag fence",
+        "split logs",
+        "young trees",
+        "nails"
+    ],
+    "wreck": [],
+    "yawl": [
+        "small ship's boat",
+        "oars"
+    ],
+    "yurt": [
+        "large, round, semi-permanent tent",
+        "vertical walls",
+        "conical roof",
+        "ger"
+    ],
+    "web site": [
+        "collection",
+        "interlinked web pages",
+        "base URL",
+        "server"
+    ],
+    "comic book": [
+        "book",
+        "magazine",
+        "sequences",
+        "drawings",
+        "story",
+        "series",
+        "stories",
+        "serialized form",
+        "usually fiction"
+    ],
+    "crossword puzzle": [
+        "(games",
+        "crossword"
+    ],
+    "street sign": [],
+    "traffic light": [
+        "signalling device",
+        "road intersection",
+        "pedestrian crossing",
+        "universal colour code"
+    ],
+    "book jacket": [
+        "detachable paper cover",
+        "book",
+        "binding",
+        "blurb"
+    ],
+    "menu": [
+        "details",
+        "food",
+        "banquet",
+        "bill",
+        "fare"
+    ],
+    "plate": [
+        "slightly curved flat dish",
+        "food"
+    ],
+    "guacamole": [
+        "avocado-based greenish dip",
+        "onions",
+        "tomato",
+        "spices",
+        "Mexican cuisine",
+        "tortilla chips"
+    ],
+    "consomme": [
+        "clear broth",
+        "reduced meat",
+        "vegetable stock",
+        "soup",
+        "jelly"
+    ],
+    "hot pot": [
+        "stew",
+        "beef",
+        "potatoes"
+    ],
+    "trifle": [
+        "English dessert",
+        "mixture",
+        "thick custard, fruit, sponge cake, jelly whipped cream"
+    ],
+    "ice cream": [
+        "dessert",
+        "frozen sweetened cream",
+        "similar substance"
+    ],
+    "ice lolly": [
+        "Frozen fruit juice",
+        "stick"
+    ],
+    "French loaf": [],
+    "bagel": [
+        "toroidal bread roll"
+    ],
+    "pretzel": [
+        "toasted bread",
+        "cracker",
+        "shape",
+        "loose knot"
+    ],
+    "cheeseburger": [
+        "hamburger",
+        "cheese",
+        "usually slices",
+        "processed cheese"
+    ],
+    "hotdog": [
+        "sandwich",
+        "frankfurter",
+        "wiener",
+        "bread roll",
+        "ketchup"
+    ],
+    "mashed potato": [
+        "pulpy consistency"
+    ],
+    "head cabbage": [],
+    "broccoli": [
+        "plant",
+        "cabbage family",
+        "especially, tree-shaped flower",
+        "stalk",
+        "vegetable"
+    ],
+    "cauliflower": [
+        "cabbage",
+        "cluster",
+        "young flower stalks",
+        "buds",
+        "vegetable"
+    ],
+    "zucchini": [
+        "courgette",
+        "variety",
+        "edible fruit"
+    ],
+    "spaghetti squash": [
+        "oblong seed-bearing variety"
+    ],
+    "acorn squash": [
+        "varieties",
+        "plant"
+    ],
+    "butternut squash": [
+        "vase-shaped orange-fleshed hard winter squash",
+        "cultivar"
+    ],
+    "cucumber": [
+        "vine",
+        "gourd family"
+    ],
+    "artichoke": [
+        "plant",
+        "thistle",
+        "enlarged flower heads",
+        "vegetable",
+        "scolymus"
+    ],
+    "bell pepper": [
+        "edible spicy-sweet fruit"
+    ],
+    "cardoon": [
+        "prickly perennial plant",
+        "artichoke",
+        "leaf stalks",
+        "vegetable"
+    ],
+    "mushroom": [
+        "fleshy fruiting bodies",
+        "fungi",
+        "ground",
+        "soil",
+        "food sources",
+        "wood"
+    ],
+    "Granny Smith": [],
+    "strawberry": [
+        "sweet, usually red, edible fruit",
+        "certain plants"
+    ],
+    "orange": [
+        "evergreen tree"
+    ],
+    "lemon": [
+        "yellowish citrus fruit"
+    ],
+    "fig": [
+        "fruit-bearing tree",
+        "shrub",
+        "tropics"
+    ],
+    "pineapple": [
+        "tropical plant",
+        "leaves",
+        "thick stem"
+    ],
+    "banana": [
+        "elongated curved tropical fruit",
+        "bunches",
+        "creamy flesh",
+        "smooth skin"
+    ],
+    "jackfruit": [
+        "tree",
+        "edible fruit"
+    ],
+    "custard apple": [
+        "tropical fruits"
+    ],
+    "pomegranate": [
+        "fruit-bearing shrub",
+        "small tree"
+    ],
+    "hay": [
+        "use",
+        "animal fodder"
+    ],
+    "carbonara": [
+        "thick Italian pasta sauce",
+        "guanciale",
+        "grated cheese",
+        "egg yolks",
+        "pepper"
+    ],
+    "chocolate sauce": [],
+    "dough": [
+        "thick, malleable substance",
+        "flour",
+        "ingredients",
+        "water",
+        "eggs",
+        "butter",
+        "particular form"
+    ],
+    "meat loaf": [
+        "dish",
+        "ground meat",
+        "ground beef",
+        "pork",
+        "veal",
+        "venison",
+        "poultry",
+        "seafood",
+        "loaf shape",
+        "egg",
+        "breadcrumbs",
+        "slices"
+    ],
+    "pizza": [
+        "baked Italian dish",
+        "thinly rolled bread",
+        "dough crust",
+        "tomato sauce",
+        "cheese",
+        "ingredients",
+        "meat",
+        "vegetables"
+    ],
+    "potpie": [
+        "pie",
+        "pastry sides",
+        "meat"
+    ],
+    "burrito": [
+        "Mexican dish",
+        "flour tortilla",
+        "filling",
+        "meat",
+        "beans"
+    ],
+    "red wine": [],
+    "espresso": [
+        "concentrated coffee beverage",
+        "hot water",
+        "high pressure",
+        "finely ground coffee"
+    ],
+    "cup": [
+        "concave vessel",
+        "opaque material",
+        "glass",
+        "handle"
+    ],
+    "eggnog": [
+        "beverage",
+        "milk",
+        "eggs",
+        "sugar",
+        "nutmeg",
+        "rum",
+        "brandy"
+    ],
+    "alp": [
+        "high mountain",
+        "highest chain",
+        "mountains"
+    ],
+    "bubble": [
+        "spherically contained volume",
+        "air",
+        "gas",
+        "soapy liquid"
+    ],
+    "cliff": [
+        "vertical (or nearly vertical) rock face"
+    ],
+    "coral reef": [
+        "reef",
+        "compacted coral skeletons"
+    ],
+    "geyser": [
+        "boiling natural spring",
+        "frequent intervals jets",
+        "water",
+        "expansive power",
+        "steam"
+    ],
+    "lakeside": [
+        "ground",
+        "edge",
+        "lake",
+        "land",
+        "lake"
+    ],
+    "promontory": [
+        "high point",
+        "land",
+        "body",
+        "water",
+        "headland"
+    ],
+    "sandbar": [
+        "ridge",
+        "sand",
+        "action",
+        "waves",
+        "shore"
+    ],
+    "seashore": [
+        "coastal land",
+        "sea",
+        "ocean"
+    ],
+    "valley": [
+        "elongated depression",
+        "hills",
+        "mountains",
+        "river"
+    ],
+    "volcano": [
+        "vent",
+        "fissure",
+        "surface",
+        "planet",
+        "mountainous form",
+        "magma chamber",
+        "mantle",
+        "planet",
+        "moon",
+        "lava volcanic gases",
+        "surface"
+    ],
+    "ballplayer": [
+        "player",
+        "ball game",
+        "especially basketball",
+        "baseball",
+        "football player"
+    ],
+    "groom": [
+        "man"
+    ],
+    "scuba diver": [
+        "person",
+        "scuba-diving equipment"
+    ],
+    "rapeseed": [
+        "seed",
+        "rape plant",
+        "animal feed",
+        "vegetable oil"
+    ],
+    "daisy": [
+        "yellow head",
+        "white petals"
+    ],
+    "yellow lady's slipper": [],
+    "corn": [
+        "main cereal plant",
+        "grain",
+        "given region",
+        "oats",
+        "parts",
+        "wheat",
+        "barley"
+    ],
+    "acorn": [
+        "fruit",
+        "oak",
+        "oval",
+        "nut",
+        "woody cup",
+        "cupule"
+    ],
+    "hip": [
+        "outward-projecting parts",
+        "femur",
+        "overlying tissue"
+    ],
+    "buckeye": [
+        "species",
+        "trees"
+    ],
+    "coral fungus": [],
+    "agaric": [
+        "fungi",
+        "order",
+        "Agaricales",
+        "fruiting bodies",
+        "umbrella-like caps",
+        "stalks",
+        "numerous gills"
+    ],
+    "gyromitra": [],
+    "stinkhorn": [
+        "fungus",
+        "order",
+        "foul-scented, rod-shaped mushroom"
+    ],
+    "earthstar": [
+        "type",
+        "puffball mushroom",
+        "surface",
+        "star-shaped form"
+    ],
+    "hen-of-the-woods": [
+        "edible polypore mushroom"
+    ],
+    "bolete": [
+        "fruiting body",
+        "certain fungus species",
+        "order",
+        "especially",
+        "flavour",
+        "said order",
+        "fruiting body"
+    ],
+    "ear": [
+        "organ",
+        "hearing",
+        "pinna",
+        "auditory canal",
+        "stapes",
+        "cochlea"
+    ],
+    "toilet tissue": [
+        "Toilet paper"
+    ]
+}
